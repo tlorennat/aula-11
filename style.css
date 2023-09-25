@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+
+html{
+    background: linear-gradient(0.25turn, #a63f9d, #a8e7f0, #933cf6);
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+p{
+color: rgb(245, 245, 162);
+}
